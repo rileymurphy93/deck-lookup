@@ -1,0 +1,10 @@
+#output {
+    display: flex;
+    flex-direction:column;
+}
+
+#output button {
+    margin: 5px;
+    padding: 5px;
+    max-width: 200px;
+}
